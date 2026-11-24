@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+tests/tiny-model/
+.pytest_cache/
+.DS_Store

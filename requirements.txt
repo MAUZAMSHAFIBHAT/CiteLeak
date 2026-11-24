@@ -1,0 +1,7 @@
+# Light requirements for the hosted demo (replay mode).
+# Full experiment dependencies: requirements-full.txt (used by run.sh)
+streamlit==1.67.0
+numpy==2.5.5
+scipy==1.18.1
+scikit-learn==1.9.1
+rank_bm25==0.2.2
