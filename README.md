@@ -18,7 +18,7 @@ using only what a normal user sees, and evaluate a defense called **Privacy Shie
 > ⚠️ **All data is synthetic.** Names are random combinations of common first and last names; clinical
 > details are templated. No real patient data is used anywhere.
 
-**🔗 Live demo:** DEMO_URL_HERE  ·  **📄 Poster:** [`poster/CiteLeak_poster.pdf`](poster/CiteLeak_poster.pdf)  ·  **📊 All numbers:** [`results/RESULTS.md`](results/RESULTS.md)
+**🔗 Live demo:** [https://citeleak.streamlit.app](https://citeleak.streamlit.app)  ·  **📄 Poster:** [`poster/CiteLeak_poster.pdf`](poster/CiteLeak_poster.pdf)  ·  **📊 All numbers:** [`results/RESULTS.md`](results/RESULTS.md)
 
 ## Results at a glance
 
